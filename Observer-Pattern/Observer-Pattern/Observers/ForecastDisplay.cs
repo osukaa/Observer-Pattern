@@ -8,7 +8,7 @@ namespace Observer_Pattern.Observers
 {
     public class ForecastDisplay : Observer, DisplayElement
     {
-        public void update()
+        public void update(float temperature, float humidity, float pressure)
         {
         }
 

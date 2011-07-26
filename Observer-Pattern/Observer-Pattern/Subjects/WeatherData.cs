@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Observer_Pattern.Observers;
 
-namespace Observer_Pattern.Subject
+namespace Observer_Pattern.Subjects
 {
     public class WeatherData : Subject
     {
@@ -36,17 +36,17 @@ namespace Observer_Pattern.Subject
             }
         }
 
-        public void getTemperature() 
+        public float getTemperature() 
         {
             return this.temperature;
         }
 
-        public void getHumidity()
+        public float getHumidity()
         {
             return this.humidity;
         }
 
-        public void getPressure()
+        public float getPressure()
         {
             return this.pressure;
         }

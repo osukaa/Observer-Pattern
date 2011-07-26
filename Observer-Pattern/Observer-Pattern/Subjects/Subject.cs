@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Observer_Pattern.Observers;
 
-namespace Observer_Pattern.Subject
+namespace Observer_Pattern.Subjects
 {
     public interface Subject
     {
