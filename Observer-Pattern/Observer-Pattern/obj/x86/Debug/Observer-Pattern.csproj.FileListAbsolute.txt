@@ -1,0 +1,5 @@
+C:\Users\Coke\GIT\Observer-Pattern\Observer-Pattern\Observer-Pattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coke\GIT\Observer-Pattern\Observer-Pattern\Observer-Pattern\bin\Debug\Observer-Pattern.exe
+C:\Users\Coke\GIT\Observer-Pattern\Observer-Pattern\Observer-Pattern\bin\Debug\Observer-Pattern.pdb
+C:\Users\Coke\GIT\Observer-Pattern\Observer-Pattern\Observer-Pattern\obj\x86\Debug\Observer-Pattern.exe
+C:\Users\Coke\GIT\Observer-Pattern\Observer-Pattern\Observer-Pattern\obj\x86\Debug\Observer-Pattern.pdb

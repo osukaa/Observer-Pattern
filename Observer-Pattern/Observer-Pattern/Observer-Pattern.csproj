@@ -43,9 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Display\DisplayElement.cs" />
+    <Compile Include="Observers\CurrentConditions.cs" />
+    <Compile Include="Observers\ForecastDisplay.cs" />
+    <Compile Include="Observers\Observer.cs" />
+    <Compile Include="Observers\StatisticsDisplay.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Subjects\Subject.cs" />
+    <Compile Include="Subjects\WeatherData.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
