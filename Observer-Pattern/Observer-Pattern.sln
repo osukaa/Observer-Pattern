@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer-Pattern", "Observer-Pattern\Observer-Pattern.csproj", "{776F4B41-73C2-437D-9311-6BC3A2F1F5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776F4B41-73C2-437D-9311-6BC3A2F1F5FB}.Debug|x86.ActiveCfg = Debug|x86
+		{776F4B41-73C2-437D-9311-6BC3A2F1F5FB}.Debug|x86.Build.0 = Debug|x86
+		{776F4B41-73C2-437D-9311-6BC3A2F1F5FB}.Release|x86.ActiveCfg = Release|x86
+		{776F4B41-73C2-437D-9311-6BC3A2F1F5FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
